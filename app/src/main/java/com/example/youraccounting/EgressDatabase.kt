@@ -1,4 +1,4 @@
-package com.example.prueba
+package com.example.youraccounting
 
 import android.content.Context
 import androidx.room.Database
