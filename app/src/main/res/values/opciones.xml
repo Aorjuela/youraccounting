@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="opciones_categoria_gasto">
+        <item>N/A</item>
+        <item>MERCADO</item>
+        <item>ASEO</item>
+        <item>SERVICIOS</item>
+        <item>ENTRETENIMIENTO</item>
+        <item>CAPACITACION</item>
+    </string-array>
+
+    <string-array name="opciones_tipo_gasto">
+        <item>N/A</item>
+        <item>COMPRA</item>
+        <item>PAGO</item>
+        <item>PRESTAMO</item>
+    </string-array>
+
+    <string-array name="opciones_forma_pago">
+        <item>N/A</item>
+        <item>EFECTIVO</item>
+        <item>DEBITO</item>
+        <item>CREDITO</item>
+    </string-array>
+
+    <string-array name="opciones_proveedor">
+        <item>N/A</item>
+        <item>JAIRO ORJUELA</item>
+        <item>LORENA ORJUELA</item>
+        <item>CECILIA VINCHIRA</item>
+        <item>DIEGO ORJUELA</item>
+        <item>YASSER PUENTES</item>
+        <item>JESUS RAMOS</item>
+        <item>MAYERLY VELEZ</item>
+        <item>HAROLD</item>
+        <item>JOSE DANIEL HERNANDEZ</item>
+        <item>HARRY</item>
+        <item>PANADERIA LA ESPERANZA</item>
+        <item>PANADERIA EL TRIUNFO</item>
+        <item>FRUTERIA DELIFRUTAS</item>
+        <item>EL IMPERIO</item>
+        <item>SALSAMENTARIA NAPOLES</item>
+        <item>JAIRO ORJUELA</item>
+        <item>SUBWAY</item>
+        <item>ALGUN RESTAURANTE</item>
+        <item>MAC POLLOS Y CARNES</item>
+        <item>SITP</item>
+        <item>TRANSMILENIO</item>
+        <item>TAXI</item>
+        <item>BUS URBANO</item>
+        <item>UBER</item>
+        <item>TNC ELECTRONICS SAS</item>
+        <item>VISHION ELECTRONICS</item>
+        <item>SECURITY DEALER COMPANY</item>
+        <item>ELECTRONICA CHINA</item>
+        <item>PANADERIA LA ESPERANZA</item>
+        <item>ELECTRO IGOM</item>
+        <item>COM Y SUM DE COLOMBIA S.A.S</item>
+        <item>SIGMA ELECTRONICA</item>
+        <item>SALSAMENTARIA NAPOLES</item>
+        <item>GVS COLOMBIA SAS</item>
+        <item>LOCAL CENTRO COMERCIAL 9</item>
+        <item>MOVIL COMPANY</item>
+        <item>ALPES DISTIBUCIONES</item>
+        <item>PUNTO MAXIMO</item>
+        <item>ALFAMAXTER COMPUTADORES</item>
+        <item>STEVENS COMPUTER</item>
+        <item>KTRONIX</item>
+        <item>OLIMPICA</item>
+        <item>FALABELLA</item>
+        <item>ALMACENES ÉXITO</item>
+        <item>VISHION ELECTRONICS</item>
+        <item>SUPELINE COMUNICACIONES</item>
+        <item>PETETE</item>
+        <item>CABINAS COLOMBIAFARMA</item>
+        <item>NCELNET .COM .NET</item>
+        <item>TECNOLOGY DIGITAL MOBILE</item>
+        <item>DIRECTV</item>
+        <item>COLOMBIA MOVIL S.A. E.S.P. (Tigo)</item>
+        <item>CINECOLOMBIA</item>
+        <item>VENTA PELICULAS PIRATAS</item>
+        <item>SCOTIABANK COLPATRIA</item>
+        <item>STEVENS COMPUTER</item>
+        <item>UNE,EAAB,GAS</item>
+        <item>RAPPI</item>
+        <item>DROGUERIA DON HERNAN</item>
+        <item>HOMECENTER</item>
+        <item>CAFÉ EL LIBERTADOR</item>
+        <item>PANAMERICANA</item>
+        <item>TIENDA D1</item>
+        <item>CABINAS COLOMBIAFARMA</item>
+        <item>TIENDA LOS PAISAS</item>
+        <item>TIENDA JUSTO Y BUENO</item>
+        <item>TIENDA DE AL LADO DE LA OBRA</item>
+        <item>TIENDA EN FRENTE DE SURTIMAX</item>
+        <item>TIENDA CERCA DE PELICULAS PIRATAS</item>
+        <item>AUTOSERVICIO SUPREME EXPRESS</item>
+        <item>SURTIMAX BARRIO</item>
+        <item>CORFERIAS</item>
+        <item>TIENDA DE AL LADO DE LA OBRA</item>
+        <item>EDITORIAL ALFAOMEGA</item>
+        <item>EDICIONES DE LA U</item>
+        <item>CLINICA MARLY</item>
+        <item>SANITAS</item>
+        <item>LUCIA</item>
+    </string-array>
+
+</resources>

@@ -60,4 +60,13 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         newEgressButton?.setOnClickListener(this)
     }
+
+    override fun onClick(v: View?) {
+        when(v?.id){
+            R.id.new_egress_button -> {
+                startActivity(Intent(this, EgressActivity::class.java))
+                EgressActivity.tipoAccion = "INSERTAR"
+            }
+        }
+    }
 }
